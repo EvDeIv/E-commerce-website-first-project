@@ -1,0 +1,19 @@
+{
+  "name": "e-commerce-website-frontend-project",
+  "version": "1.0.0",
+  "description": "E-commerce website frontend project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1012.0",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^10.0.0",
+    "express.js": "^1.0.0",
+    "firebase-admin": "^10.0.0",
+    "nodemailer": "^6.7.0"
+  }
+}
